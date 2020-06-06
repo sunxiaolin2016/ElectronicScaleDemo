@@ -1,0 +1,4 @@
+#Tue Jan 07 17:05:13 CST 2020
+base.0=D\:\\CH341SER_ANDROID\\Demo\\CH34xUARTDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\17
+path.0=classes.dex
+renamed.0=classes.dex

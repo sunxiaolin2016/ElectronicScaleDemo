@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\CH341SER_ANDROID\\Demo\\CH34xUARTDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\CH341SER_ANDROID\\Demo\\CH34xUARTDemo\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CH341SER_ANDROID\\Demo\\CH34xUARTDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\CH341SER_ANDROID\\Demo\\CH34xUARTDemo\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CH341SER_ANDROID\\Demo\\CH34xUARTDemo\\build\\intermediates\\res\\merged\\debug\\layout_my_spinner_textview.xml.flat",
+        "source": "D:\\CH341SER_ANDROID\\Demo\\CH34xUARTDemo\\res\\layout\\my_spinner_textview.xml"
+    },
+    {
+        "merged": "D:\\CH341SER_ANDROID\\Demo\\CH34xUARTDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_pattern.xml.flat",
+        "source": "D:\\CH341SER_ANDROID\\Demo\\CH34xUARTDemo\\res\\drawable-hdpi\\button_pattern.xml"
+    },
+    {
+        "merged": "D:\\CH341SER_ANDROID\\Demo\\CH34xUARTDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\CH341SER_ANDROID\\Demo\\CH34xUARTDemo\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CH341SER_ANDROID\\Demo\\CH34xUARTDemo\\build\\intermediates\\res\\merged\\debug\\xml_device_filter.xml.flat",
+        "source": "D:\\CH341SER_ANDROID\\Demo\\CH34xUARTDemo\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "D:\\CH341SER_ANDROID\\Demo\\CH34xUARTDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\CH341SER_ANDROID\\Demo\\CH34xUARTDemo\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CH341SER_ANDROID\\Demo\\CH34xUARTDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\CH341SER_ANDROID\\Demo\\CH34xUARTDemo\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\CH341SER_ANDROID\\Demo\\CH34xUARTDemo\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\CH341SER_ANDROID\\Demo\\CH34xUARTDemo\\res\\layout\\main.xml"
+    }
+]

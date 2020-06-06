@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\CH341SER_ANDROID\Demo\CH34xUARTDemo\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\CH341SER_ANDROID\Demo\CH34xUARTDemo\build-types\debug\jniLibs"/></dataSet></merger>
